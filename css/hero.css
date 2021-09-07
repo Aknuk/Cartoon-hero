@@ -20,7 +20,8 @@ header h2{
 header img {
 	border-radius: 100px;
 	border: 60px solid ghostwhite;
-	padding: 10px;
+	padding: 10px grey;
+	box-shadow: 0 0 0 10px black;
 }
 
 header p {
